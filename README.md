@@ -10,5 +10,5 @@ I have considered the problem statement of,
    - Use historical hiring data to train and test your model.
 
  3. Job Recommendation:
-   - Build a job recommendation engine using collaborative filtering or content-based filtering techniques.
-   - Continuously refine the recommendation algorithm based on user feedback and engagement data.
+    - Build a job recommendation engine using collaborative filtering or content-based filtering techniques.
+    - Continuously refine the recommendation algorithm based on user feedback and engagement data.
