@@ -9,6 +9,6 @@ I have considered the problem statement of,
    - Implement a recommendation system using machine learning techniques to match candidates to job openings.
    - Use historical hiring data to train and test your model.
 
- 3. Job Recommendation:
-    - Build a job recommendation engine using collaborative filtering or content-based filtering techniques.
-    - Continuously refine the recommendation algorithm based on user feedback and engagement data.
+3. Chatbot Development:
+   - Design a conversational AI that can answer common candidate queries and guide them through the job application process.
+   - Implement the chatbot to handle interactions effectively using NLP.
